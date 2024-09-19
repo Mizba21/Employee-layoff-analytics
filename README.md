@@ -5,3 +5,6 @@ The involuntary removal of employees through layoffs, often driven by economic a
 
 ## Proposed System
 <img width="335" alt="image" src="https://github.com/user-attachments/assets/5f2ff7b1-d2f4-4587-839e-a25218cdb6fc">
+
+## Results
+<img width="491" alt="image" src="https://github.com/user-attachments/assets/32865180-a11b-41ee-bfae-d57a6b74e98e">
